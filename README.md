@@ -1,6 +1,6 @@
 # Welcome To My Portfolio.
 <a href="https://www.linkedin.com/in/param-dave-807334135"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://pkd5085.medium.com"><img src=”https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white”/></a>
+<a href="https://pkd5085.medium.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 My name is Param Dave. I am a Cyber Security Consultant at Tata Consultancy Services with 5 years of professional experience. I have worked in various domains within Cyber Security but have a special interest in the areas of Penetration Testing and Threat Hunting.
 
