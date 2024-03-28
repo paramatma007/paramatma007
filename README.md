@@ -5,7 +5,7 @@
 My name is Param Dave. I am a Cyber Security Consultant at Tata Consultancy Services with 5 years of professional experience. I have worked in various domains within Cyber Security but have a special interest in the areas of Penetration Testing and Threat Hunting.
 
 ## Objective
-Cyber Security has fascinated me since my college days with it's everchanging landscape. We live in a digital age where technology is rapidly evolving, making Cyber Security a necessity for any organization. I aim to make Cyber Security more accessible through sharing guidance, learning resources, and my research on various aspects of Cyber Security. I also intend to encourage as many people as possible to pursue this field.
+Cyber Security has fascinated me since my college days with it's everchanging landscape. We live in a digital age where technology is rapidly evolving, making Cyber Security a necessity for any organization. I aim to simplify this rather complex field and make it more accessible to everyone through sharing guidance, learning resources, and my research on various aspects of Cyber Security. I also intend to encourage as many people as possible to pursue this field.
 
 ## Areas of Expertise
 | Area                                 | Overview of Hands-on Experience                               |
