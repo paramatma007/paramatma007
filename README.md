@@ -15,7 +15,7 @@ I pursued the field of Cyber Security since college as it has always fascinated 
 | Incident Response                    | Lead an IR team to handle a wide variety of security incidents|
 | Vulnerability Management             | Perform Network Vulnerability Assessments                     |
 | Cloud Security                       | Perform Vulnerability Assessment on PaaS services             |
-| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google offerings    |
+| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings    |
 
 ## Certifications
 <div>
