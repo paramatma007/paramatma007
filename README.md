@@ -8,14 +8,15 @@ My name is Param Dave. I am a Cyber Security Consultant with hands-on profession
 Cyber Security has fascinated me since my college days with it's everchanging landscape. We live in a digital age where technology is rapidly evolving, making Cyber Security a necessity for any organization. I aim to simplify this rather complex field and make it more accessible to everyone through sharing guidance, learning resources, and my research on various aspects of Cyber Security. I also intend to encourage as many people as possible to pursue this field.
 
 ## Areas of Expertise
-| Area                                 | Overview of Hands-on Experience                               |
-| -------------------------------------|---------------------------------------------------------------|
-| Penetration Testing                  | Perform Web/Mobile/Network pen tests                          |
-| Threat Hunting                       | Perform Hypothesis-based hunting on various log sources       |
-| Incident Response                    | Lead an IR team to handle a wide variety of security incidents|
-| Vulnerability Management             | Perform Network Vulnerability Assessments                     |
-| Cloud Security                       | Perform Vulnerability Assessment on PaaS services             |
-| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings    |
+| Area                                 | Overview of Hands-on Experience                                 |
+| -------------------------------------|---------------------------------------------------------------- |
+| Penetration Testing                  | Perform Web/Mobile/Network pen tests                            |
+| Red Teaming                          | Perform Red Team and adversary emulation exercises              |
+| Threat Hunting                       | Perform Hypothesis-based hunting on various log sources         |
+| Incident Response                    | Lead an IR team to handle a wide variety of security incidents  |
+| Vulnerability Management             | Perform Network Vulnerability Assessments                       |
+| Cloud Security                       | Perform Vulnerability Assessment on PaaS services               |
+| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings|
 
 ## Certifications
 <div>
