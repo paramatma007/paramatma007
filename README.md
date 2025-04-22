@@ -11,7 +11,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 | Area                                 | Overview of Hands-on Experience                                 |
 | -------------------------------------|---------------------------------------------------------------- |
 | Penetration Testing                  | Perform Web/Mobile/Network pen tests                            |
-| Red Teaming                          | Perform Red Team and adversary emulation exercises              |
+| Red Teaming                          | Perform Red Team and Adversary Emulation exercises              |
 | Threat Hunting                       | Perform Hypothesis-based hunting on various log sources         |
 | Incident Response                    | Lead an IR team to handle a wide variety of security incidents  |
 | Vulnerability Management             | Perform Network Vulnerability Assessments                       |
