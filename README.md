@@ -21,7 +21,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CBBH-008000?&style=for-the-badge&logo=HackTheBox&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/-CySA%2B-33C7FF?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=#C8202F height="40" />
+<img src="https://img.shields.io/badge/-CySA%2B-33C7FF?&style=for-the-badge&logo=CompTIA&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/-PenTest%2B-FF7A33?&style=for-the-badge&logo=CompTIA&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/-CNSP-3380FF?&style=for-the-badge&logo=CompTIA&logoColor=white" height="40" />
 <img src="https://img.shields.io/badge/-CSAP-33ECFF?&style=for-the-badge&logo=CompTIA&logoColor=white" height="40" />
