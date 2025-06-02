@@ -1,6 +1,6 @@
 # Welcome To My Portfolio.
-<a href="https://www.linkedin.com/in/param-dave-807334135"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://pkd5085.medium.com"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/param-dave-807334135"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+<a href="https://pkd5085.medium.com"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" height="35" /></a>
 
 My name is Param Dave. I am a Cyber Security Consultant with hands-on professional experience in various domains within Cyber Security. Following areas are my primary focus of research - Penetration Testing, Threat Hunting, Red Teaming, and Purple Teaming.
 
