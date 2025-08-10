@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/param-dave-807334135"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
 <a href="https://pkd5085.medium.com"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" height="35" /></a>
 
-My name is Param Dave. I am a Cyber Security Consultant with hands-on professional experience in various domains within Cyber Security. Following areas are my primary focus of research - Penetration Testing, Threat Hunting, Red Teaming, and Purple Teaming.
+I am a Cyber Security Consultant with hands-on professional experience in various domains within Cyber Security. Following areas are my primary focus of research - Penetration Testing, Threat Hunting, Red Teaming, and Purple Teaming.
 
 ## Objective
 Cyber Security has fascinated me since my college days with it's everchanging landscape. We live in a digital age where technology is rapidly evolving, making Cyber Security a necessity for any organization. I aim to simplify this rather complex field and make it more accessible to everyone through sharing guidance, learning resources, and my research on various aspects of Cyber Security. I also intend to encourage as many people as possible to pursue this field.
@@ -10,7 +10,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 ## Areas of Expertise
 | Area                                 | Overview of Hands-on Experience                                 |
 | -------------------------------------|---------------------------------------------------------------- |
-| Penetration Testing                  | Perform Web/Mobile/Network pen tests                            |
+| Penetration Testing                  | Perform Web/Mobile pen tests                            |
 | Red Teaming                          | Perform Red Team and Adversary Emulation exercises              |
 | Threat Hunting                       | Perform Hypothesis-based hunting on various log sources         |
 | Incident Response                    | Lead an IR team to handle a wide variety of security incidents  |
