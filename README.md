@@ -10,7 +10,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 ## Areas of Expertise
 | Area                                 | Overview of Hands-on Experience                                 |
 | -------------------------------------|---------------------------------------------------------------- |
-| Penetration Testing                  | Perform Web/Mobile pen tests                            |
+| Penetration Testing                  | Perform Web/Mobile App pen tests                                |
 | Red Teaming                          | Perform Red Team and Adversary Emulation exercises              |
 | Threat Hunting                       | Perform Hypothesis-based hunting on various log sources         |
 | Incident Response                    | Lead an IR team to handle a wide variety of security incidents  |
