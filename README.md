@@ -8,15 +8,18 @@ I am a Cyber Security Consultant with 6+ years of hands-on professional experien
 Cyber Security has fascinated me since my college days with it's everchanging landscape. We live in a digital age where technology is rapidly evolving, making Cyber Security a necessity for any organization. I aim to simplify this rather complex field and make it more accessible to everyone through sharing guidance, learning resources, and my research on various aspects of Cyber Security. I also intend to encourage as many people as possible to pursue this field.
 
 ## Areas of Expertise
-| Area                                 | Overview of Hands-on Experience                                 |
-| -------------------------------------|---------------------------------------------------------------- |
-| Penetration Testing                  | Perform Web/Mobile App pen tests                                |
-| Red Teaming                          | Perform Red Team and Adversary Emulation exercises              |
-| Threat Hunting                       | Perform Hypothesis-based hunting on various log sources         |
-| Incident Response                    | Lead an IR team to handle a wide variety of security incidents  |
-| Vulnerability Management             | Perform Network Vulnerability Assessments                       |
-| Cloud Security                       | Perform Vulnerability Assessment on PaaS services               |
-| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings|
+| Area                                 | Overview of Hands-on Experience                                                                                              |
+| -------------------------------------|----------------------------------------------------------------------------------------------------------------------------- |
+| Security Research                    | Research on AI, Low-Code/No-Code Applications and Blockchain to build and enhance Cyber Security offerings                   |
+| Attack Surface Management            | Create Vulnerability Analysis and Process Documentation for Google TI ASM                                                    |
+| GRC                                  | Create and Update Security Build Standards for various technologies as per CIS Benchmark                                     |
+| Penetration Testing                  | Perform Web/Mobile Application pen tests                                                                                     |
+| Red Teaming                          | Perform Red Team and Adversary Emulation exercises                                                                           |
+| Threat Hunting                       | Perform Hypothesis-based hunting on various log sources                                                                      |
+| Incident Response                    | Lead an IR team to handle a wide variety of security incidents                                                               |
+| Vulnerability Management             | Perform Network Vulnerability Assessments                                                                                    | 
+| Cloud Security                       | Perform Vulnerability Assessment on PaaS services                                                                            |
+| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings                                                             |
 
 ## Certifications
 <div>
