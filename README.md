@@ -20,7 +20,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 | Red Teaming                          | Perform Red Team and Adversary Emulation exercises                                                                           |
 | Threat Hunting                       | Perform Hypothesis-based hunting on various log sources                                                                      |
 | Incident Response                    | Lead an IR team to handle a wide variety of security incidents                                                               |
-| SOC                                  | Actively contribute in building a new SOC from scratch to perform L2/L3 duties as per MSSP and MDR models.                   |
+| SOC                                  | Actively contribute in building a new SOC from scratch and perform L2/L3 duties as per MSSP and MDR models.                  |
 
 ## Certifications
 <div>
