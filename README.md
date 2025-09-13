@@ -10,7 +10,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 ## Areas of Expertise
 | Area                                 | Overview of Hands-on Experience                                                                                              |
 | -------------------------------------|----------------------------------------------------------------------------------------------------------------------------- |
-| Security Research                    | Research on AI, Low-Code/No-Code Applications and Blockchain to build and enhance Cyber Security offerings                   |
+| Security Research                    | Research on AI, Application Security and Blockchain Security to build and enhance Cyber Security offerings                   |
 | Attack Surface Management            | Create Vulnerability Analysis and Process Documentation for Google TI ASM                                                    |
 | GRC                                  | Create and Update Security Build Standards for various technologies as per CIS Benchmark                                     |
 | Penetration Testing                  | Perform Web/Mobile Application pen tests                                                                                     |
