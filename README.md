@@ -14,12 +14,13 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 | Attack Surface Management            | Create Vulnerability Analysis and Process Documentation for Google TI ASM                                                    |
 | GRC                                  | Create and Update Security Build Standards for various technologies as per CIS Benchmark                                     |
 | Penetration Testing                  | Perform Web/Mobile Application pen tests                                                                                     |
+| Vulnerability Management             | Lead and Perform Network Vulnerability Assessments                                                                           | 
+| Cloud Security                       | Perform Vulnerability Assessment on PaaS services                                                                            |
+| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings                                                             |
 | Red Teaming                          | Perform Red Team and Adversary Emulation exercises                                                                           |
 | Threat Hunting                       | Perform Hypothesis-based hunting on various log sources                                                                      |
 | Incident Response                    | Lead an IR team to handle a wide variety of security incidents                                                               |
-| Vulnerability Management             | Perform Network Vulnerability Assessments                                                                                    | 
-| Cloud Security                       | Perform Vulnerability Assessment on PaaS services                                                                            |
-| Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings                                                             |
+| SOC                                  | Actively contribute in building a new SOC from scratch to perform L2/L3 duties as per MSSP and MDR models.                   |
 
 ## Certifications
 <div>
