@@ -13,7 +13,7 @@ Cyber Security has fascinated me since my college days with it's everchanging la
 | Security Research                    | Research on AI, Application Security and Blockchain Security to build and enhance Cyber Security offerings                   |
 | Attack Surface Management            | Create Vulnerability Analysis and Process Documentation for Google TI ASM                                                    |
 | GRC                                  | Create and Update Security Build Standards for various technologies as per CIS Benchmark                                     |
-| Penetration Testing                  | Perform Web/Mobile/Thick-Client Application and Network/Infra pen tests                                                                                     |
+| Penetration Testing                  | Perform Web/Mobile/Thick-Client Application and Network/Infra pen tests                                                      |
 | Vulnerability Management             | Lead and Perform Network Vulnerability Assessments                                                                           | 
 | Cloud Security                       | Perform Vulnerability Assessment on PaaS services                                                                            |
 | Threat Modeling                      | Perform Threat Modeling on AWS, Azure and Google Cloud offerings                                                             |
